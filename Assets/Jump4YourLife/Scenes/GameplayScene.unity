@@ -1476,8 +1476,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de5d607b2bed443ebd0c34fe9129f8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jump4YourLife.Scripts.Development.Controllers.CameraSystem.ScreenWalls
+  mainCamera: {fileID: 1344314202}
   leftWall: {fileID: 265551658}
   rightWall: {fileID: 172447170}
+  wallVisibleWidth: 0.15
 --- !u!114 &1344314206
 MonoBehaviour:
   m_ObjectHideFlags: 0
