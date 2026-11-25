@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b659e38e47294942a31b052e13c21cd, type: 3}
+  m_Name: Cat
+  m_EditorClassIdentifier: Assembly-CSharp::Jump4YourLife.Scripts.Core.Character.CharacterData
+  id: 9
+  characterName: Cat
+  requiredScore: 100
+  isUnlockedByDefault: 0
+  unlockCondition: Reach 100 points
+  iconSprite: {fileID: 2034550008, guid: f8a87b83735dc8d4aaa0c1ef05b9724e, type: 3}
+  lockedIconSprite: {fileID: 270481867, guid: f8a87b83735dc8d4aaa0c1ef05b9724e, type: 3}
+  fullPreviewSprite: {fileID: -2028523954, guid: 75a3eff4221f3bf4fa25908497a00525, type: 3}
+  characterPrefab: {fileID: 7464093118129140186, guid: 2593b98bfa83c1c48b0a912dc4b27dbc, type: 3}

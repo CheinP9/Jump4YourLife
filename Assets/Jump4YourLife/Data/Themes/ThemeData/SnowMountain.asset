@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccb78125d7869e40afad7fba237c2b8, type: 3}
+  m_Name: SnowMountain
+  m_EditorClassIdentifier: Assembly-CSharp::Jump4YourLife.Scripts.Core.Theme.ThemeData
+  id: 5
+  themeName: Snow Mountain
+  backgroundSprite: {fileID: 1812776560, guid: 382980afe2f032d4c909f86cd646738a, type: 3}
+  iconSprite: {fileID: -1395467864, guid: f8a87b83735dc8d4aaa0c1ef05b9724e, type: 3}
+  platformIntactSprite: {fileID: -615406335, guid: 8d9cdb87fef39e2488ce7e1a5c7f110a, type: 3}
+  platformCrackedSprite: {fileID: -496816970, guid: 8d9cdb87fef39e2488ce7e1a5c7f110a, type: 3}
+  wallSprite: {fileID: 386413111, guid: 8d9cdb87fef39e2488ce7e1a5c7f110a, type: 3}

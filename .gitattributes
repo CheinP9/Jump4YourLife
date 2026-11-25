@@ -1,0 +1,32 @@
+# Normalize line endings for text files
+* text=auto
+
+# Unity text assets
+*.cs text diff=csharp
+*.shader text
+*.cginc text
+*.hlsl text
+*.unity text
+*.prefab text
+*.mat text
+*.asset text
+*.controller text
+*.anim text
+*.meta text
+*.json text
+*.xml text
+*.md text
+
+# Binary assets (prevent line-ending corruption)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.tga binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.ttf binary
+*.otf binary
+*.fbx binary
+*.dll binary
